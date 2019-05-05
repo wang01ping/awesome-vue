@@ -1,3 +1,4 @@
+https://blog.csdn.net/caijunfen/article/details/78216868  中文版参考这个说明
 <p align="center">
   <br>
   <img width="400" src="./logo.svg" alt="logo of vue-awesome repository">
